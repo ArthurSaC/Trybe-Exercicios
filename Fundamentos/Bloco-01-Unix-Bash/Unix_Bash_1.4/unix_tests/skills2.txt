@@ -2,7 +2,3 @@ Internet
 Unix
 Bash
 Java
-HTML
-CSS
-C#
-C++
