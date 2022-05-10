@@ -1,8 +1,6 @@
 Internet
 Unix
 Bash
-Java
+Git
 HTML
 CSS
-C#
-C++
