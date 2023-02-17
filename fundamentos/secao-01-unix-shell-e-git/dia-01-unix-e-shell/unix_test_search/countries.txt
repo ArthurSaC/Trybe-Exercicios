@@ -1,6 +1,4 @@
-abraço meus amigos
 Afghanistan
-agora outro tests
 Albania
 Algeria
 Andorra
@@ -15,7 +13,6 @@ Bahamas
 Bahrain
 Bangladesh
 Barbados
-beba água
 Belarus
 Belgium
 Belize
@@ -41,7 +38,6 @@ Colombia
 Comoros
 Congo
 Congo {Democratic Rep}
-corra 30min por dia
 Costa Rica
 Croatia
 Cuba
@@ -134,8 +130,6 @@ Niger
 Nigeria
 Norway
 Oman
-Opa, mais frases
-outro dia
 Pakistan
 Palau
 Panama
@@ -149,6 +143,8 @@ Qatar
 Romania
 Russian Federation
 Rwanda
+St Kitts & Nevis
+St Lucia
 Saint Vincent & the Grenadines
 Samoa
 San Marino
@@ -167,8 +163,6 @@ South Africa
 South Sudan
 Spain
 Sri Lanka
-St Kitts & Nevis
-St Lucia
 Sudan
 Suriname
 Swaziland
